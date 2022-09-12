@@ -1,0 +1,233 @@
+                <!-- priceing -->
+       <div class="container-fluid">
+
+    <div class="membership">
+      <div  class="mem2">
+        <h1>||-Membership-||</h1>
+      </div>
+      
+
+      <div class="card-deck">
+        <div class="card">
+          <img class="card-img-top" src="../assets/mem.png" alt="Card image cap">
+          <div class="card-body">
+            <h1 class="card-title">Silver</h1>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted"><b><h2>Rs:<del>8000$</del>   5000$</h2></b></small>
+          </div>
+        </div>
+        <div class="card">
+          <img class="card-img-top" src="../assets/mem.png" alt="Card image cap">
+          <div class="card-body">
+            <h1 class="card-title">Gold</h1>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted"><b><h2>Rs:<del>15000$</del>   12000$</h2></b></small>
+          </div>
+        </div>
+        <div class="card">
+          <img class="card-img-top" src="../assets/mem.png" alt="Card image cap">
+          <div class="card-body">
+            <h1 class="card-title">Platinum</h1>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted"><b><h2>Rs:<del>20000$</del>   15000$</h2></b></small>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+
+
+                  <!-- <div class="container-fluid">
+
+    <div class="membership">
+      <div  class="mem2">
+        <h1>||-Membership-||</h1>
+      </div>
+      
+
+      <div class="card-deck">
+        <div class="card">
+          <img class="card-img-top" src="../assets/mem.png" alt="Card image cap">
+          <div class="card-body">
+            <h1 class="card-title">Silver</h1>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted"><b><h2>Rs:<del>8000$</del>   5000$</h2></b></small>
+          </div>
+        </div>
+        <div class="card">
+          <img class="card-img-top" src="../assets/mem.png" alt="Card image cap">
+          <div class="card-body">
+            <h1 class="card-title">Gold</h1>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted"><b><h2>Rs:<del>15000$</del>   12000$</h2></b></small>
+          </div>
+        </div>
+        <div class="card">
+          <img class="card-img-top" src="../assets/mem.png" alt="Card image cap">
+          <div class="card-body">
+            <h1 class="card-title">Platinum</h1>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted"><b><h2>Rs:<del>20000$</del>   15000$</h2></b></small>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+ -->
+
+            <!-- feature -->
+<!-- 
+    <div class="end">
+      <div class="row">
+        <div class="col-lg-2 col-sm-2">
+ 
+          <p><H3><B>QUICK LINKS</B></H3>
+          
+        </div>
+        <div class="col-lg-2 col-sm-2">
+          
+        </div>  <div class="col-lg-4">
+          <p><H3><B>NEWS LETTER</B></H3>
+         
+        </div>  <div class="col-lg-4">
+          <p><H3><B>LATTEST NEWS</B></H3>
+         
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-2 col-sm-2">
+           <p>About us</p>
+           <p> Our Team</p>
+           <p>Careers</p>
+           <p> Testimonials</p>
+           <p>Work Culture</p>
+           <p>Press Room & Latest News</p>
+           <p>Promotions</p>
+           <p>Events</p>
+           <p>Amazing Offers</p>
+           <p>Group Program</p> 
+
+        </div>
+        <div class="col-lg-2 col-sm-2">
+          <p>Blogs </p>
+          <p> Programs </p>
+          <p>    Gallery</p>
+          <p> Franchise </p>
+          <p>GGFI       </p>
+          <p>Advertise With us              </p>
+          <p>Buy Membership now
+           <p>Gym Locator</p> 
+            <p> Sitemap</p>
+           <p> Gold's Gym India Calendar</p>
+
+        </div>  
+        <div class="col-lg-4">
+         
+          <p>sign up for our mailing list to get latest updates and offers</p>
+          <hr>
+          <div class="bgw">
+             <input type="text" class="text2" placeholder="Email" >
+          <button type="submit" name="save" value="subscribe">
+            <i class="fa fa-chevron-right"></i>
+
+          </button>
+          
+      </div>
+      <div class="social">
+        <div class="row">
+          <div class=" col-sm-2">
+            <button type="submit" name="save" value="subscribe">
+              <i class="fa fa-facebook"></i>
+            </button>
+            
+          </div>  <div class=" col-sm-2">
+            <button type="submit" name="save" value="subscribe">
+              <i class="fa fa-twitter"></i>
+              </button>
+          </div>
+        
+          <div class="col-sm-2">
+          <button type="submit" name="save" value="subscribe">
+            <i class="fa fa-youtube"></i>
+            </button>
+          </div>
+          <div class="  col-sm-2">
+         <button type="submit" name="save" value="subscribe">
+            <i class="fa fa-instagram"></i>
+            </button>
+            
+          </div>
+        </div>  
+
+      </div>
+      
+       
+         </div>
+         
+         
+        </div>  
+        <div class="col-lg-4">
+         <p><img src="../assets/news.jpg" alt=""> Gym industry confident about 2021 despite slow recovery, low turnout among women</p>
+         <hr> 
+         <p><img src="../assets/news.jpg" alt=""> 3 Reasons Why The Digital Fitness Boom Is Here To Stay</p>
+         <hr>
+          <p><img src="../assets/news.jpg" alt=""> Want To Gain Muscle Mass Here Are 5 Tips Every Beginner Should Know </p>
+          <hr>
+
+
+
+       
+          
+
+
+
+</div>
+       
+
+
+    </div>
+    -->
+          <!-- footer -->
+<!-- <div class="footer">
+
+<div class="row">
+  <div class="col-sm-4">
+   <div class="copy">
+   @2021 all gym rights reserved
+ </div></div>
+
+ <div class="col-sm-4">
+   <div class="webicon">
+      <a href="" > <img src="../assets/google play.png" alt=""></a>
+     <a href="" > <img src="../assets/app store.png" alt=""></a>
+    </div>
+  
+
+ </div>
+ <div class="col-sm-4">
+   <div class="terms">      
+        <a href="">Term Condition</a> | <a href="">Privacy Policy</a>
+   </div>
+ </div>
+
+</div>
+
+
+    </div>
+ -->
+
+<!-- </div>
+ -->
+<!-- <app-price> </app-price> -->
